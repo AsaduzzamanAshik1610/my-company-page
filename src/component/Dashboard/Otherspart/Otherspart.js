@@ -1,7 +1,7 @@
 import React from 'react';
 const secondPart = () => {
     return (
-        <div className='grid grid-cols-2 gap-4 mt-5 rounded m-5'>
+        <div className='grid md:grid-cols-2 grid-cols-1 gap-4 mt-5 rounded m-5'>
             <div className='shadow p-5  h-44'>
                 <h1 className='text-xl flex items-start'>Website View</h1>
                 <p className='mt-5'>These are paid services. To know more click here</p>
